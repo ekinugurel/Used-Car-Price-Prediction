@@ -10,4 +10,4 @@ The R file "project" details the analysis procedure, all of which is done using 
 
 The PDF "Ugurel_Kim_Shawger_FinalReport_427" is the final report submitted to the instructor, recapping the entire procedure and providing discussion on findings.
 
-We thank Prof. Shuai Huang for a wonderful data analytics class as applied to system engineering.
+We thank Prof. Shuai Huang (shuai.huang.ie@gmail.com) for a wonderful data analytics class as applied to system engineering.
