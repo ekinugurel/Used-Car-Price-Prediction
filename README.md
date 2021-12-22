@@ -9,3 +9,5 @@ The ipynb file "Used_Vehicle_Data_Preprocessing" details the pre-analysis proced
 The R file "project" details the analysis procedure, all of which is done using various R packages. 
 
 The PDF "Ugurel_Kim_Shawger_FinalReport_427" is the final report submitted to the instructor, recapping the entire procedure and providing discussion on findings.
+
+We thank Prof. Shuai Huang for a wonderful data analytics class as applied to system engineering.
